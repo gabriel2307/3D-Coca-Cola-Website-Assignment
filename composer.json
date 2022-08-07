@@ -1,0 +1,17 @@
+{
+    "name": "skelop_websites/gabriel2307",
+    "authors": [
+        {
+            "name": "SKELOPwebsites",
+            "email": "support@skelop.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+  "require": {
+    "ext-pdo": "*"
+  }
+}
